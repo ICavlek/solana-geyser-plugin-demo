@@ -9,4 +9,5 @@ crate-type = ["cdylib", "rlib"]
 [dependencies]
 agave-geyser-plugin-interface = { version = "=2.1.14" }
 solana-logger = { version = "=2.1.14" }
+solana-sdk = { version = "=2.1.14" }
 log = "0.4.27"
